@@ -1,4 +1,4 @@
-# Meso-X Lab
+# Meso-WX Lab
 
 ### Mesoscale Weather, Convection, and Atmospheric Extremes
 
