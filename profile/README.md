@@ -2,11 +2,11 @@
 
 ### Mesoscale Weather, Convection, and Atmospheric Extremes
 
-Welcome to **Meso-X**, a research group studying the physics, evolution, and predictability of high-impact weather.
+Welcome to **Meso-WX**, a research group studying the physics, evolution, and predictability of high-impact weather.
 
 We are interested in how atmospheric processes interact across scales, from clouds and convective cells to organized storm systems and regional weather extremes. Our work combines **in situ and remotely-sensed observations, numerical modeling, and data analysis** to better understand the processes that produce intense precipitation, thunderstorms, lightning, and other forms of extreme weather.
 
-The **X** in Meso-X reflects the intersections at the heart of our research: **mesoscale processes × observations × modeling × extremes**.
+The **X** in Meso-WX reflects the intersections at the heart of our research: **mesoscale processes × observations × modeling × extremes**.
 
 ---
 
@@ -39,7 +39,7 @@ We are especially interested in questions such as:
 
 ## 🛰️ How we approach these questions
 
-Meso-X sits at the intersection of **observations and modeling**.
+Meso-WX sits at the intersection of **observations and modeling**.
 
 ### Observations & Remote Sensing
 
@@ -78,7 +78,7 @@ We value **reproducible research, open scientific workflows, and clear visualiza
 
 ## 🔬 Research philosophy
 
-At Meso-X, we are interested in research that connects **physical understanding with quantitative analysis**.
+At Meso-WX, we are interested in research that connects **physical understanding with quantitative analysis**.
 
 A good research question, in our view, is not simply:
 
@@ -117,7 +117,7 @@ Projects can range from **process-oriented atmospheric physics** to **computatio
 
 ## 💡 What you can learn here
 
-Students working with Meso-X can develop skills in:
+Students working with Meso-WWX can develop skills in:
 
 * Formulating scientific questions
 * Radar and satellite meteorology
@@ -136,7 +136,7 @@ Just as importantly, we want students to learn how to **think independently abou
 
 ## 🤝 Who might enjoy working with us?
 
-Meso-X may be a good fit if you find yourself wondering things like:
+Meso-WX may be a good fit if you find yourself wondering things like:
 
 * Why did *that* storm become so intense?
 * Why did extreme rainfall occur in one location but not another?
@@ -153,17 +153,17 @@ Students with backgrounds in **atmospheric science, physics, mathematics, engine
 
 ## 🌍 Beyond individual storms
 
-Although mesoscale weather is at the core of Meso-X, we are interested in the broader consequences of convective processes.
+Although mesoscale weather is at the core of Meso-WX, we are interested in the broader consequences of convective processes.
 
 Clouds and storms connect atmospheric scales. Individual convective systems can influence regional precipitation, hydrology, atmospheric circulation, and weather extremes.
 
-Understanding these connections is one of the central challenges of atmospheric science, and one of the reasons the **X** in Meso-X matters.
+Understanding these connections is one of the central challenges of atmospheric science, and one of the reasons the **X** in Meso-WX matters.
 
 ---
 
 ## 🧑‍💻 Open science
 
-This GitHub organization hosts code, analysis workflows, documentation, and research resources developed by members of Meso-X.
+This GitHub organization hosts code, analysis workflows, documentation, and research resources developed by members of Meso-WX.
 
 Where possible, we aim to make our research:
 
@@ -185,7 +185,7 @@ We are interested in hearing from motivated:
 
 Specific opportunities depend on available projects and funding.
 
-If you are interested in joining Meso-X, please include a short description of:
+If you are interested in joining Meso-WX, please include a short description of:
 
 1. your academic background,
 2. the research questions that interest you,
@@ -199,7 +199,7 @@ Prior research experience is useful, but **genuine scientific curiosity and will
 ## 📬 Contact
 
 **Prof. Milind Sharma**
-Meso-X Lab
+Meso-WX Lab
 Centre for Climate Studies
 Indian Institute of Technology Bombay
 
@@ -210,6 +210,6 @@ Indian Institute of Technology Bombay
 ---
 
 <p align="center">
-  <b>Meso-X</b><br>
+  <b>Meso-WX</b><br>
   <i>Exploring the processes behind clouds, convection, and atmospheric extremes.</i>
 </p>
