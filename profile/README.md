@@ -117,7 +117,7 @@ Projects can range from **process-oriented atmospheric physics** to **computatio
 
 ## 💡 What you can learn here
 
-Students working with Meso-WWX can develop skills in:
+Students working with Meso-WX can develop skills in:
 
 * Formulating scientific questions
 * Radar and satellite meteorology
